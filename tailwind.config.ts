@@ -11,7 +11,11 @@ export default {
       colors: {
         background: "var(--background)",
         foreground: "var(--foreground)",
+        input: "#1F2828"
       },
+      backgroundImage: {
+        signup: "url('/images/signup.png')",
+      }
     },
   },
   plugins: [],
